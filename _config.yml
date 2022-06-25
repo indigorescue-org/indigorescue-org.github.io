@@ -16,7 +16,7 @@ author: Indigo Rescue
 
 navbar-links:
   About Us: 
-    - About Us: "aboutme"
+    - About Us: "about"
     - Fundraising Board: "fundraising_board"
     - Staff & Board: "staff_board"
   Adoption:
@@ -112,6 +112,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+# navbar-col: "#EAEAEA"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
@@ -129,7 +130,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/images/background.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
