@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Adoption Philosophy
+layout: page
 ---
 
 <img align="right" height="300" src="/assets/images/adoption_philosophy1.jpg">
