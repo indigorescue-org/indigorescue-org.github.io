@@ -3,7 +3,6 @@ layout: page
 title: Adoption Policy
 ---
 
-
 These include but are not limited to:
 
 #### Adoptions are made only to homes within a 30-mile radius of Portland

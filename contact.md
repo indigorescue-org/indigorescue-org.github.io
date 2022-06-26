@@ -3,7 +3,6 @@ layout: page
 title: Contact
 ---
 
-
 <img align="right" height="500" src="/assets/images/contact1.jpg">
 
 ### Mail

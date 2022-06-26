@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About Indigo Rescue
+layout: page
 ---
 
 # Our "Square Pegs" Philosophy
