@@ -1,7 +1,6 @@
 ---
 layout: page
-# title: Fundraising Board
-# subtitle: Why you'd want to go on a date with me
+title: Fundraising Board
 ---
 
 <p align="center">

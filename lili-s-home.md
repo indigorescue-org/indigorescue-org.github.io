@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Lili's Home
 ---
 <p align="center">
     <img height="300" src="/assets/images/lili-s-home1.jpg">

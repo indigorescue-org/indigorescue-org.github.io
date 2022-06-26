@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Events
 ---
 
 Below you'll see just a few of our typical fundraising events...and volunteers drive them all! Sign up for our email alert list if you want to be notified of volunteer needs for these (and other) events: 
