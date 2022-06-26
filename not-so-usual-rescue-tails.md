@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Not So Unusual Rescue Tails
+layout: page
 ---
 
 <p align="center">

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Donate
+layout: page
 ---
 
 # Financial Donation

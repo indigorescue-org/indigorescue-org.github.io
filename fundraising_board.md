@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Fundraising Board
+layout: page
 ---
 
 <p align="center">
