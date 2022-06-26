@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img align="right" height="300" src="/assets/images/contact1.jpg">
+<img align="right" height="500" src="/assets/images/contact1.jpg">
 
 ### Mail
 
