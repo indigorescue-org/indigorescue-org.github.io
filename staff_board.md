@@ -2,7 +2,6 @@
 layout: page
 ---
 
-
 # Our Staff
 
 ### Heather Hines: Executive Director and Founder

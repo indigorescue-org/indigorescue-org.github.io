@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 ## ​Weekly Adoption Events
 
 <img align="right" height="300" src="/assets/images/volunteer1.jpg">

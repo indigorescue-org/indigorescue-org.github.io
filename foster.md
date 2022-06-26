@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Foster With Us
+layout: page
 ---
 
 Questions about fostering? Email us at [info@indigorescue.org](info@indigorescue.org)
