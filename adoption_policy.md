@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Adoption Policy
+layout: page
 ---
 
 These include but are not limited to:

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Foster
+layout: page
 ---
 
 Questions about fostering? Email us at [info@indigorescue.org](info@indigorescue.org)

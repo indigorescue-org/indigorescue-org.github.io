@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contact
+layout: page
 ---
 
 <img align="right" height="500" src="/assets/images/contact1.jpg">

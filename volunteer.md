@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Volunteer
+layout: page
 ---
 
 ## ​Weekly Adoption Events

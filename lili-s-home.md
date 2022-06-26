@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Lili's Home
+layout: page
 ---
 
 <p align="center">
