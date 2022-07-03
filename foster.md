@@ -5,13 +5,13 @@ layout: page
 
 Questions about fostering? Email us at [info@indigorescue.org](info@indigorescue.org)
 
-# Because Home is Where Everyone Fits 
+## Because Home is Where Everyone Fits 
 
 Shelters can be a terrifying place. So a frightened dog cowers and growls in the corner of his shelter cage. A dog who has never known human kindness snaps in a frantic attempt to save himself from a stranger's hand. A dog who is used to going hungry is protective of his food. For a shelter dog, not fitting in in these totally understandable ways can leave you “unadoptable” and facing a death sentence.
 But at Indigo Rescue, we know that, in the right home, everyone fits. In our loving foster homes, our dogs learn that people can be good. Rather than seeing danger in a strangers hand, they learn to relish the warm embrace of a human that makes them feel safe. They learn that they can count of their families to provide. They get healthy. They gain confidence. And they learn the manners and behavior that it takes to be a good family member.
 You can't accomplish this in an institutional setting, that's why our foster families are the backbone of our work. Indigo provides the game plan, medical care and the individualized support, but our fosters provide the HOME---that very special place where everyone can learn to fit.
 
-## The Foster Process
+### The Foster Process
 
 <img align="right" height="300" src="/assets/images/foster1.jpg">
 
@@ -34,7 +34,7 @@ Once we have a commitment from a new foster, we coordinate delivering the dog to
 If the dog needs any medical attention, Indigo Rescue schedules the vet visit with our vet, and pays the bill. The foster brings the dog in for the needed appointment. The foster family usually buys food, toys, and other daily necessities. We can provide crates, collars, harnesses and leashes. We require foster families to keep their foster dog safe at all times. This generally means inside and crated if necessary when left alone, and NEVER left unattended in the back yard. If your assigned dog is one of our infamous “Door Darters,” you will be given additional instructions on how to keep him safe.
 Indigo handles the adoption process in its entirety. When the dogs are ready to be placed, we post them   on petfinder.com. Input from the foster family is invaluable to this process because it is the foster who can tell us crucial details about the dog's temperament, likes, dislikes and idiosyncrasies. This is the foundation of the process by which we match an animal with a forever home where it can thrive.
 
-## Foster Failure
+### Foster Failure
 
 <img align="left" height="300" src="/assets/images/foster4.jpg">
 

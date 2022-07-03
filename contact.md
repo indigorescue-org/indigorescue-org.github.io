@@ -7,14 +7,14 @@ layout: page
 
 ### Mail
 
-Indigo Rescue  
-P.O. Box 554  
-Beaverton, OR 97075  
+Indigo Rescue
+P.O. Box 554
+Beaverton, OR 97075
 
 ### Email
-<a href="mailto:info@indigorescue.org">info@indigorescue.org</a>
+
+[info@indigorescue.org](mailto:info@indigorescue.org)
 
 ### Voicemail
 
-<a href="tel:(503) 626-7222">(503) 626-7222</a>
-
+[(503)626-7222](tel:5036267222)

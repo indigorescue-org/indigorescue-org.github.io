@@ -4,7 +4,7 @@ layout: page
 
 # Our Staff
 
-### Heather Hines: Executive Director and Founder
+## Heather Hines: Executive Director and Founder
 
 
 <img align="right" height="300" src="/assets/images/heather-hines.jpg">
@@ -15,7 +15,7 @@ Heather not only develops and initiates Indigo's key programs; she serves as Exe
 
 Heather proposed and helped develop and coordinate the launch of the onsite spay/neuter program at Washington County Animal Services, and the shelter's volunteer dog walking program to help train dogs and provide increased public exposure. At home, she fosters for Indigo Rescue and continues with her passion for rescuing and rehabilitating injured or ill animals, providing a combination of traditional medical rehabilitation and natural therapies during their recovery. 
 
-### Tracy Love-Silver: Board President
+## Tracy Love-Silver: Board President
 
 <img align="left" height="300" src="/assets/images/tracy-love-silver.jpg">
 
@@ -27,7 +27,7 @@ Working in programs for at-risk adults and children, Tracy directed and founded 
 
 As Board President, Tracy is excited to use her knowledge of nonprofit management to help Indigo meet the challenges and needs of special animals in this area long into the future. 
 
-### Rachael Fishel:  Human Resources Chair
+## Rachael Fishel:  Human Resources Chair
 
 <img align="right" height="300" src="/assets/images/rachael-fishel.jpg">
 
@@ -39,7 +39,7 @@ Rachael has worked as a Program Manager at her current position for the past 8 y
 
 Rachael's dream job would combine animal rescue with a Christmas tree farm and a pumpkin patch!
 
-### Christy Caplan: Communications Co-Chair
+## Christy Caplan: Communications Co-Chair
 
 <img align="left" height="300" src="/assets/images/christy-caplan.jpg">
 
@@ -51,7 +51,7 @@ With roots in consumer lifestyle and packaged goods PR, Christy's strength is de
 
 As a board member Christy is excited to ensure Indigo Rescue continues to thrive and OCU at Indigo Ranch is on everyone's radar as the premier boarding facility for the community's four legged friends.
 
-### Himani Wickramanayake: Programs Chair/Secretary
+## Himani Wickramanayake: Programs Chair/Secretary
 
 <img align="right" height="300" src="/assets/images/himani-wickramanayake.jpg">
 
@@ -61,7 +61,7 @@ That turned out to be a life changing experience. Her first foster dog, Herman, 
 
 Himani loves a challenge and likes helping dogs who need a little extra time and understanding to blossom, and she found kindred spirits in that mission volunteering with Indigo Rescue. 
 
-### Kristina Herb: Finance Chair
+## Kristina Herb: Finance Chair
 
 <img align="left" height="300" src="/assets/images/kristina-herb.jpg">
 
@@ -73,7 +73,7 @@ Throughout the years that Kristina has fostered animals for adoption, both of he
 
 Kristina brings her professional problem solving skills as a Global Logistics Manager to the Indigo board.
 
-### Kim Carty: Capital Funds Campaign Chair
+## Kim Carty: Capital Funds Campaign Chair
 
 Kim Carty grew up in Forest Grove, OR. She graduated from Pacific Lutheran University in Tacoma WA and Northwestern School of Law of Lewis & Clark College in Portland, OR. Kim opened her solo law practice in 2000 and performed contract work for other local attorneys, writing briefs and memorandums for Oregon courts before transitioning into real estate. Since 2003, Kim has been a broker for John L Scott in Beaverton, OR and a licensed attorney, assisting her clients with real estate matters.
 
@@ -81,7 +81,7 @@ Kim and her husband, Matt, both had childhood pets growing up, so adopted two pu
 
 When not working or playing with her son or the four-legged kids, Kim enjoys working out, golf, running, movies and reading.
 
-### John Borromeo: Communications Chair
+## John Borromeo: Communications Chair
 
 <img align="left" height="300" src="/assets/images/john-borromeo.jpg">
 
@@ -94,7 +94,7 @@ Over the years, John and his wife, Melissa, have been regular volunteers with In
 
 # Our Advisory Board​
 
-### Mark Norman, DVM
+## Mark Norman, DVM
 
 <img align="left" height="300" src="/assets/images/mark-norman.jpg">
 
@@ -103,7 +103,7 @@ Dr. Mark Norman has been the primary veterinarian for Indigo Rescue since 1998, 
 
 In addition to being the veterinarian for Indigo Rescue, Dr Mark served as Indigo's immediate past president. He has fostered and adopted one of his dogs from the organization. He also hosts and participates in fundraising activities and events.
 
-### Nicole Schaefer, JD
+## Nicole Schaefer, JD
 
 <img align="left" height="300" src="/assets/images/nicole-schaefer.jpg">
 

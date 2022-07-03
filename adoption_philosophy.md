@@ -7,7 +7,7 @@ layout: page
 
 Adoption failure is painful for everyone—especially for dogs and cats who have already been hurt so profoundly in their lives. Our first concern is that the animals be placed in the best possible home for them—a home that is equipped to handle their unique needs, and a home they will have for the rest of their lives. We think of them as wonderful and unique “square pegs” and we won't ever try to force them into round holes. When we match you to one of our special animals, it will be for one reason only—we believe that your home and our animal are a good fit.
 
-### Our goal is finding a home they will have for the rest of their lives.
+### Our goal is finding a home they will have for the rest of their lives
 
 <img align="left" height="300" src="/assets/images/adoption_philosophy2.jpg">
 
