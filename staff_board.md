@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Staff and Board
+---
 ---
 
 # Our Staff
