@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Staff and Board
+layout: page
 ---
+
 ---
 
 # Our Staff
