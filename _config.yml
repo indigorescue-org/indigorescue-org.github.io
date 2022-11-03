@@ -22,7 +22,7 @@ defaults:
     layout: page
 author: Indigo Rescue
 navbar-links:
-  About Us:
+  About:
   - About Us: about
   - Our Programs: our-programs
   - Fundraising Board: fundraising_board
