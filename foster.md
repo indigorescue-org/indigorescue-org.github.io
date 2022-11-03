@@ -3,7 +3,7 @@ title: Foster
 layout: page
 ---
 
-Questions about fostering? Email us at [info@indigorescue.org](info@indigorescue.org)
+Questions about fostering? Email us at [info@indigorescue.org](mailto:info@indigorescue.org)
 
 ## Because Home is Where Everyone Fits 
 
