@@ -3,6 +3,8 @@ title: Volunteer
 layout: page
 ---
 
+Want to volunteer, please fill out our [Volunteer Application](/assets/pdf/VolunteerApp.pdf)
+
 ## ​Weekly Adoption Events
 
 <img align="right" height="300" src="/assets/images/volunteer1.jpg">
@@ -25,6 +27,4 @@ We've got a lot going on—all the time!  Whether it's our popular jewelry sales
 
 <img align="left" height="300" src="/assets/images/volunteer4.jpg">
 
-Before you join us for the first time, please fill out our quick volunteer application so we'll know who you are. Either fax it to us at: 888-502-7660 or scan it and email it as a PDF to us at: info@indigorescue.org. We'll follow up to see where you fit and, if there is any additional training necessary for the volunteer task you've chosen, we'll notify you to make sure you are well-prepared. 
-
-[Volunteer Application](/assets/pdf/VolunteerApp.pdf)
+Before you join us for the first time, please fill out our quick volunteer application so we'll know who you are. Either fax it to us at: 888-502-7660 or scan it and email it as a PDF to us at: info@indigorescue.org. We'll follow up to see where you fit and, if there is any additional training necessary for the volunteer task you've chosen, we'll notify you to make sure you are well-prepared.
