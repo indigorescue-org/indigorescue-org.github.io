@@ -19,4 +19,4 @@ Indigo Rescue is searching for an out-going, motivated new volunteer board membe
 
 To find out more about who we are, what we do, what we're planning and, exactly what the job entails, please visit [www.indigorescue.org](https://www.indigorescue.org).
 
-[Interested?  Please download and complete this application and email it to info@indigorescue.org](/assets/pdf/BoardofDirectorsCandidateApplication.pdf)
+Interested?  Please download and complete [this application](/assets/pdf/BoardofDirectorsCandidateApplication.pdf) and email it to [info@indigorescue.org](info@indigorescue.org).
