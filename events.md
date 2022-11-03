@@ -5,7 +5,7 @@ layout: page
 
 Below you'll see just a few of our typical fundraising events...and volunteers drive them all! Sign up for our email alert list if you want to be notified of volunteer needs for these (and other) events: 
 
-[Join Our Alert List](info@IndigoRescue.org)
+[Join Our Alert List](mailto:info@IndigoRescue.org)
 
 ## Jewelry Sales
 
