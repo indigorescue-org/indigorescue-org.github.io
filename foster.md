@@ -5,7 +5,7 @@ layout: page
 
 Questions about fostering? Email us at [info@indigorescue.org](mailto:info@indigorescue.org)
 
-## Because Home is Where Everyone Fits 
+## Because Home is Where Everyone Fits
 
 Shelters can be a terrifying place. So a frightened dog cowers and growls in the corner of his shelter cage. A dog who has never known human kindness snaps in a frantic attempt to save himself from a stranger's hand. A dog who is used to going hungry is protective of his food. For a shelter dog, not fitting in in these totally understandable ways can leave you “unadoptable” and facing a death sentence.
 But at Indigo Rescue, we know that, in the right home, everyone fits. In our loving foster homes, our dogs learn that people can be good. Rather than seeing danger in a strangers hand, they learn to relish the warm embrace of a human that makes them feel safe. They learn that they can count of their families to provide. They get healthy. They gain confidence. And they learn the manners and behavior that it takes to be a good family member.
@@ -39,4 +39,3 @@ Indigo handles the adoption process in its entirety. When the dogs are ready to 
 <img align="left" height="300" src="/assets/images/foster4.jpg">
 
 Although it might not sound like it, Foster “Failure” is not only a common reality but a perfectly happy occurrence when it happens!  Nobody knows when or with whom they will fall in love, and if that happens between you and your foster animal, Congratulations!  We are happy for you. In fact, we've all been there!  If you choose to adopt your foster, you'll fill out the adoption application and follow the same process as everyone else on your way to forever parenthood.
-
