@@ -1,9 +1,9 @@
 ---
 title: Pictures with Santa
-subtitle: Santa Claus is coming down from the North Pole especially to do photos of our four (and two) legged family members!
 date: 2022-11-17 19:56:00 -08:00
-# cover-img: ["/uploads/santa1.png", "/uploads/santa2.png", "/uploads/santa3.png", "/uploads/santa4.png"]
-thumbnail-img: /uploads/santa4.png
+subtitle: Santa Claus is coming down from the North Pole especially to do photos of
+  our four (and two) legged family members!
+thumbnail-img: "/uploads/santa4.png"
 ---
 
 ![santa4.png](/uploads/santa4.png)
