@@ -4,7 +4,6 @@ date: 2022-11-17 19:56:00 -08:00
 image: /_uploads/santa4.png
 excerpt_separator: <!--more-->
 ---
-
 ![santa4.png](/uploads/santa4.png)
 
 Santa Claus is coming down from the North Pole especially to do photos of our four (and two) legged family members!
@@ -13,7 +12,6 @@ Santa Claus is coming down from the North Pole especially to do photos of our fo
 $15 for multiple digital photos (including the outtakes), and in plenty of time to use for your holiday greetings.
 
 Come on out and support Indigo Rescue and be Merry while we're capturing your special moments and memories!!
-<!--more-->
 
 ### When
 
