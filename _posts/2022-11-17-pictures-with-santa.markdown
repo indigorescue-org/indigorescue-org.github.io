@@ -28,6 +28,4 @@ Portland 97232
 
 Please SHARE!!
 
-![santa3.png](/uploads/santa3.png)
-![santa2.png](/uploads/santa2.png)
-![santa1.png](/uploads/santa1.png)
+![santa3.png](/uploads/santa3.png)![santa2.png](/uploads/santa2.png)![santa1.png](/uploads/santa1.png)
