@@ -1,14 +1,14 @@
 ---
 title: Pictures with Santa
+subtitle: Santa Claus is coming down from the North Pole especially to do photos of our four (and two) legged family members!
 date: 2022-11-17 19:56:00 -08:00
-image: _uploads/santa4.png
-excerpt_separator: "<!--more-->"
+cover-img: ["/uploads/santa1.png", "/uploads/santa2.png", "/uploads/santa3.png", "/uploads/santa4.png"]
+thumbnail-img: /_uploads/santa4.png
 ---
 
 ![santa4.png](/uploads/santa4.png)
 
 Santa Claus is coming down from the North Pole especially to do photos of our four (and two) legged family members!
-<!--more-->
 
 $15 for multiple digital photos (including the outtakes), and in plenty of time to use for your holiday greetings.
 
