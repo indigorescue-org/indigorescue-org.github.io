@@ -1,17 +1,14 @@
 ---
 title: Pictures with Santa
 date: 2022-11-17 19:56:00 -08:00
-image: /uploads/santa4.png
+image: /_uploads/santa4.png
 excerpt_separator: <!--more-->
 ---
 
 ![santa4.png](/uploads/santa4.png)
 
-## Santa is Coming
-
-SAVE THE DATE!!
-
 Santa Claus is coming down from the North Pole especially to do photos of our four (and two) legged family members!
+<!--more-->
 
 $15 for multiple digital photos (including the outtakes), and in plenty of time to use for your holiday greetings.
 
