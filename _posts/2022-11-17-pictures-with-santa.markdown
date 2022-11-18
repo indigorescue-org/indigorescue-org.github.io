@@ -1,7 +1,7 @@
 ---
 title: Pictures with Santa
 date: 2022-11-17 19:56:00 -08:00
-image: /_uploads/santa4.png
+image: _uploads/santa4.png
 excerpt_separator: <!--more-->
 ---
 ![santa4.png](/uploads/santa4.png)
