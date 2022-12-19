@@ -28,7 +28,6 @@ navbar-links:
   - Fundraising Board: fundraising_board
   - Staff & Board: staff_board
   Adoption:
-  # - Adoptable Pets: https://www.petfinder.com/search/pets-for-adoption/?shelter_id%5B0%5D=OR19&sort%5B0%5D=recently_added
   - Adoptable Pets: adoptable-pets
   - Adoption Philosophy: adoption_philosophy
   - Adoption Policy: adoption_policy

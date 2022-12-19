@@ -3,7 +3,6 @@ title: Adoptable Pets
 layout: page
 ---
 
-
 <pet-scroller
     type='[]'
     age='[]'
