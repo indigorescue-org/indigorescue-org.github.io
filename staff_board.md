@@ -115,3 +115,13 @@ Nicole Schaefer was born in Los Angeles, California. From a very young age, she 
  Nicole attended Scripps College in California and then attended Lewis and Clark Law School in Portland. She graduated with Certificates in Animal Law and Criminal Law and Procedure, as her original plan was to prosecute animal abusers. Instead, Nicole worked for various firms doing mainly family law until she started her own law firm - Yellow Dog Legal. Yellow Dog Legal was named after Nicole's dog Maggie Rocket. Maggie came from Indigo and is a therapy dog at St. Vincent's Hospital. Nicole decided to name her firm after Maggie because Maggie represents kindness, protection, and loyalty- all traits Nicole wishes to offer to her clients. Nicole practices Trademark law primarily, but also practices business law, and of course- animal law.
 
  She still tries to hug every dog she meets, but at the very least, she loves every dog she meets.
+
+## Ming Chou
+
+ <img align="right" height="300" src="/assets/images/ming-chou.jpg">
+
+ Ming Chou grew up in Boise, ID. In 2008 she moved to Oregon to attend Portland Community College and studied photography and multimedia. Growing up Ming always had dogs and when she was 19, she took in a Maltese named Ricky. Ricky was the love of her life and they spent 14 wonderful years together. After meeting her husband, they adopted a sweet Hound mix named Bean and a hilarious Pitbull named Pijou. Along with her pups, she has a passion for raising her flock of chickens. Ming would adopt all the animals in the world if she could!
+
+Ming currently works for the North Clackamas School District as a Field and Facility Use Administrative Assistant and in her free time, she enjoys cooking, photography, painting, camping, and hiking with her family 4 legged family.
+
+As a board member, Ming is looking forward to using her social media skills to help the rescue gain more exposure and to help promote the rescue's mission with visual content.
