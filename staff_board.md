@@ -94,7 +94,7 @@ John was exposed to Indigo when his family adopted a pair of dogs in 2005. “We
 ​
 Over the years, John and his wife, Melissa, have been regular volunteers with Indigo – washing dogs at the summer dog wash fundraisers, pouring beer and staffing the puppy kissing booth at the Portland International Beerfest, selling jewelry, and coordinating the Indigo Rescue Run/Walk team at the Run for a Cause fundraiser. John is excited at being a part of Indigo Rescue's efforts to grow and evolve as an organization.
 
-## Ming Chou
+## Ming Chou: Social Media Chair
 
  <img align="right" height="300" src="/assets/images/ming-chou.jpg">
 
