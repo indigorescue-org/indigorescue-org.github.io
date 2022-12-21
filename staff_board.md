@@ -94,28 +94,6 @@ John was exposed to Indigo when his family adopted a pair of dogs in 2005. “We
 ​
 Over the years, John and his wife, Melissa, have been regular volunteers with Indigo – washing dogs at the summer dog wash fundraisers, pouring beer and staffing the puppy kissing booth at the Portland International Beerfest, selling jewelry, and coordinating the Indigo Rescue Run/Walk team at the Run for a Cause fundraiser. John is excited at being a part of Indigo Rescue's efforts to grow and evolve as an organization.
 
-
-# Our Advisory Board​
-
-## Mark Norman, DVM
-
-<img align="left" height="300" src="/assets/images/mark-norman.jpg">
-
-
-Dr. Mark Norman has been the primary veterinarian for Indigo Rescue since 1998, either treating or referring the organization's rescued animals to specialists for appropriate care. He has practiced in the Portland area since 1996. He is a member of the American Veterinary Medical Association, American Animal Hospital Association, Oregon Veterinary Medical Association, Portland Veterinary Medical Association, Washington County Veterinary Medical Association. He also serves on the board of Dove Lewis Emergency Animal Hospital. Dr Mark is a 1996 graduate of Iowa State University College of Veterinary Medicine.
-
-In addition to being the veterinarian for Indigo Rescue, Dr Mark served as Indigo's immediate past president. He has fostered and adopted one of his dogs from the organization. He also hosts and participates in fundraising activities and events.
-
-## Nicole Schaefer, JD
-
-<img align="left" height="300" src="/assets/images/nicole-schaefer.jpg">
-
-Nicole Schaefer was born in Los Angeles, California. From a very young age, she loved animals and would often try to hug every dog she met. Nicole was fortunate to be surrounded by all kinds of animals while growing up, including dogs, cats, rats, and tortoises.
-
- Nicole attended Scripps College in California and then attended Lewis and Clark Law School in Portland. She graduated with Certificates in Animal Law and Criminal Law and Procedure, as her original plan was to prosecute animal abusers. Instead, Nicole worked for various firms doing mainly family law until she started her own law firm - Yellow Dog Legal. Yellow Dog Legal was named after Nicole's dog Maggie Rocket. Maggie came from Indigo and is a therapy dog at St. Vincent's Hospital. Nicole decided to name her firm after Maggie because Maggie represents kindness, protection, and loyalty- all traits Nicole wishes to offer to her clients. Nicole practices Trademark law primarily, but also practices business law, and of course- animal law.
-
- She still tries to hug every dog she meets, but at the very least, she loves every dog she meets.
-
 ## Ming Chou
 
  <img align="right" height="300" src="/assets/images/ming-chou.jpg">
@@ -125,3 +103,25 @@ Nicole Schaefer was born in Los Angeles, California. From a very young age, she 
 Ming currently works for the North Clackamas School District as a Field and Facility Use Administrative Assistant and in her free time, she enjoys cooking, photography, painting, camping, and hiking with her family 4 legged family.
 
 As a board member, Ming is looking forward to using her social media skills to help the rescue gain more exposure and to help promote the rescue's mission with visual content.
+
+## Our Advisory Board​
+
+### Mark Norman, DVM
+
+<img align="left" height="300" src="/assets/images/mark-norman.jpg">
+
+Dr. Mark Norman has been the primary veterinarian for Indigo Rescue since 1998, either treating or referring the organization's rescued animals to specialists for appropriate care. He has practiced in the Portland area since 1996. He is a member of the American Veterinary Medical Association, American Animal Hospital Association, Oregon Veterinary Medical Association, Portland Veterinary Medical Association, Washington County Veterinary Medical Association. He also serves on the board of Dove Lewis Emergency Animal Hospital. Dr Mark is a 1996 graduate of Iowa State University College of Veterinary Medicine.
+
+In addition to being the veterinarian for Indigo Rescue, Dr Mark served as Indigo's immediate past president. He has fostered and adopted one of his dogs from the organization. He also hosts and participates in fundraising activities and events.
+
+### Nicole Schaefer, JD
+
+<img align="left" height="300" src="/assets/images/nicole-schaefer.jpg">
+
+Nicole Schaefer was born in Los Angeles, California. From a very young age, she loved animals and would often try to hug every dog she met. Nicole was fortunate to be surrounded by all kinds of animals while growing up, including dogs, cats, rats, and tortoises.
+
+ Nicole attended Scripps College in California and then attended Lewis and Clark Law School in Portland. She graduated with Certificates in Animal Law and Criminal Law and Procedure, as her original plan was to prosecute animal abusers. Instead, Nicole worked for various firms doing mainly family law until she started her own law firm - Yellow Dog Legal. Yellow Dog Legal was named after Nicole's dog Maggie Rocket. Maggie came from Indigo and is a therapy dog at St. Vincent's Hospital. Nicole decided to name her firm after Maggie because Maggie represents kindness, protection, and loyalty- all traits Nicole wishes to offer to her clients. Nicole practices Trademark law primarily, but also practices business law, and of course- animal law.
+
+ She still tries to hug every dog she meets, but at the very least, she loves every dog she meets.
+
+
