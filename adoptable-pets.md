@@ -9,7 +9,7 @@ layout: page
     limit="24"
     hidebreed
     status="adoptable"
-    petlisttitle="Indigo Rescure Adoptable Pets"
+    petlisttitle="Indigo Rescue Adoptable Pets"
     organization="OR19"
     apibase="https://api.petfinder.com"
     petfinderurl="https://www.petfinder.com"
