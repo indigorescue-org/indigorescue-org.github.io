@@ -5,7 +5,7 @@ layout: page
 
 # Adopt a friend
 
-Thank you for your interest in adopting one of our pets. Please review our [adoption policy](../adoption_philosophy) and our [adoption policies](../adoption_policy). If you have any questions, feel free to reach out to [info@indigorescue.org](mailto:info@indigorescue.org). 
+Thank you for your interest in adopting one of our pets. Please review our [adoption philosophy](../adoption_philosophy) and our [adoption policies](../adoption_policy). If you have any questions, feel free to reach out to [info@indigorescue.org](mailto:info@indigorescue.org). 
 
 If you are ready to start the adoption process, please click the Start button below to begin the adoption form.
 
