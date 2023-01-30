@@ -31,7 +31,7 @@ navbar-links:
   - Adoptable Pets: adoptable-pets
   - Adoption Philosophy: adoption_philosophy
   - Adoption Policy: adoption_policy
-  - Adoption Application: adoption_form_block_survey
+  - Adoption Application: adoption_form_blocksurvey
   # - Adoption Application: https://storage.googleapis.com/gator-users/user-680788/documents/51499d002fce458d86db46094694f629/Indigo%20Adoption%20Application%202021.pdf
   Donate and Volunteer:
   - Donate: donate
