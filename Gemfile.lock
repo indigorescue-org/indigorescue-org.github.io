@@ -72,10 +72,12 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-22
 
 DEPENDENCIES
   beautiful-jekyll-theme!
   bundler (>= 1.16)
+  jekyll (~> 3.8)
   rake (~> 13.0)
   webrick (~> 1.7)
 
