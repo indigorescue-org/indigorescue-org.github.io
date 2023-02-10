@@ -29,4 +29,4 @@ Maybe this isn't actually a “program” since we never know what will fall int
 
 At our rural property in Vernonia Oregon, we offer home-style boarding in the country'. This is a for-profit entity, but it also exists because “Home is Our Specialty.” We know how traumatizing a kennel environment can be for many dogs, and we know that many caring dog parents don't want to put their pets through that trauma'. That's why we developed our boarding facility to be more akin to a sleep-away camp than a kennel'. The dogs stay in dormitories with couches, and televisions, and they play together outside in huge securely fenced yards'. 100% of the money generated from boarding is put directly into our rescue efforts, making us more sustainable and allowing us to do far more good than if we relied only on donations'. And although this business is for-profit, it also fills an unmet need'. We provide a home away from home for your wanted and loved pet, and they help provide homes for pets who only want to be wanted and loved.
 
-[Find out more](http://indigoranch.org)
+[Find out more](https://indigoranch.org)
