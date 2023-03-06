@@ -42,7 +42,7 @@ Rachael has worked as a Program Manager at her current position for the past 8 y
 
 Rachael's dream job would combine animal rescue with a Christmas tree farm and a pumpkin patch!
 
-## Christy Caplan: Communications Co-Chair
+<!-- ## Christy Caplan: Communications Co-Chair
 
 <img align="left" height="300" src="/assets/images/christy-caplan.jpg">
 
@@ -52,7 +52,7 @@ Christy realized her passion for animals when she adopted her first dog, Jack - 
 
 With roots in consumer lifestyle and packaged goods PR, Christy's strength is developing integrated marketing strategies and grass roots campaigns that connect with everyday people. Christy currently targets dog-friendly businesses as clients. In 2012, Christy also graduated as Certified Veterinary Technician and works for a Specialty Veterinarian gaining skills and experience with various animal needs.
 
-As a board member Christy is excited to ensure Indigo Rescue continues to thrive and OCU at Indigo Ranch is on everyone's radar as the premier boarding facility for the community's four legged friends.
+As a board member Christy is excited to ensure Indigo Rescue continues to thrive and OCU at Indigo Ranch is on everyone's radar as the premier boarding facility for the community's four legged friends. -->
 
 ## Himani Wickramanayake: Programs Chair/Secretary
 
@@ -63,18 +63,6 @@ Himani Wickramanayake grew up in the Pacific Northwest and attended Whitman Coll
 That turned out to be a life changing experience. Her first foster dog, Herman, needed so much behavioral rehabilitation to overcome a rough start in life that Himani began educating herself in animal behavior, dog training modalities, and supportive care to be the person Herman needed her to be. In doing so, she found herself becoming the best version of herself and found a passion for dog training and animal rescue that would shape her life from that moment forward. Herman, her first foster-fail, is still her best friend and ally in rehabilitating rescue dogs.
 
 Himani loves a challenge and likes helping dogs who need a little extra time and understanding to blossom, and she found kindred spirits in that mission volunteering with Indigo Rescue. 
-
-## Kristina Herb: Finance Chair
-
-<img align="left" height="300" src="/assets/images/kristina-herb.jpg">
-
-Kristina is a native Oregonian. Her early years were spent on a small farm in Orenco, Oregon. Surrounded by animals from an early age, Kristina developed a love for all animals and has in her life nursed baby birds, mice and even rescued 3 baby opossums after their mother had been hit by a car which she and a neighbor bottle fed several times a day until they were old enough to eat solid food.
-
-A chance search through her employer's classified ads brought her to an ad about a dog that needed a second chance at life through a foster home. The need to help this animal find a forever home was immediate and Kristina contacted the person who posted the ad to sign up as an Indigo foster.
-
-Throughout the years that Kristina has fostered animals for adoption, both of her son's have also shared in the joy of giving an animal a second chance at life. Through them she hopes to carry the wonderful message of adoption and spay/neuter instead of buying from a breeder into the next generation. 
-
-Kristina brings her professional problem solving skills as a Global Logistics Manager to the Indigo board.
 
 ## Kim Carty: Capital Funds Campaign Chair
 
@@ -93,16 +81,6 @@ John Borromeo is new to the Indigo Rescue Board, but has been involed with Indig
 John was exposed to Indigo when his family adopted a pair of dogs in 2005. “We thought we would get one dog for our son as incentive to get him motivated to relocate to Oregon. That idea ended when we adopted Nikko and Yoshi from Indigo. They were a bonded pair, and we were told that for their welfare, they could not be split up. So, we went from never owning dogs to having two. Since then, we have embraced dog ownership with a passion,” said John. Sadly, Nikko and Yoshi have since passed, but John now has Lola and Maisie, both rescues.
 ​
 Over the years, John and his wife, Melissa, have been regular volunteers with Indigo – washing dogs at the summer dog wash fundraisers, pouring beer and staffing the puppy kissing booth at the Portland International Beerfest, selling jewelry, and coordinating the Indigo Rescue Run/Walk team at the Run for a Cause fundraiser. John is excited at being a part of Indigo Rescue's efforts to grow and evolve as an organization.
-
-## Ming Chou: Social Media Chair
-
- <img align="right" height="300" src="/assets/images/ming-chou.jpg">
-
- Ming Chou grew up in Boise, ID. In 2008 she moved to Oregon to attend Portland Community College and studied photography and multimedia. Growing up Ming always had dogs and when she was 19, she took in a Maltese named Ricky. Ricky was the love of her life and they spent 14 wonderful years together. After meeting her husband, they adopted a sweet Hound mix named Bean and a hilarious Pitbull named Pijou. Along with her pups, she has a passion for raising her flock of chickens. Ming would adopt all the animals in the world if she could!
-
-Ming currently works for the North Clackamas School District as a Field and Facility Use Administrative Assistant and in her free time, she enjoys cooking, photography, painting, camping, and hiking with her family 4 legged family.
-
-As a board member, Ming is looking forward to using her social media skills to help the rescue gain more exposure and to help promote the rescue's mission with visual content.
 
 ## Our Advisory Board​
 
