@@ -3,7 +3,7 @@ title: Volunteer
 layout: page
 ---
 
-Want to volunteer, please fill out our [Volunteer Application](/assets/pdf/VolunteerApp.pdf)
+Want to volunteer, please fill out our [Volunteer Application](/assets/pdf/Indigo_Rescue_Foster_Application_2023.pdf)
 
 ## ​Weekly Adoption Events
 

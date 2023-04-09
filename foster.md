@@ -3,6 +3,8 @@ title: Foster
 layout: page
 ---
 
+Interested in being a foster, fill out our [foster form](/assets/pdf/Indigo_Rescue_Foster_Application_2023.pdf)
+
 Questions about fostering? Email us at [info@indigorescue.org](mailto:info@indigorescue.org)
 
 ## Because Home is Where Everyone Fits
@@ -34,7 +36,7 @@ Once we have a commitment from a new foster, we coordinate delivering the dog to
 If the dog needs any medical attention, Indigo Rescue schedules the vet visit with our vet, and pays the bill. The foster brings the dog in for the needed appointment. The foster family usually buys food, toys, and other daily necessities. We can provide crates, collars, harnesses and leashes. We require foster families to keep their foster dog safe at all times. This generally means inside and crated if necessary when left alone, and NEVER left unattended in the back yard. If your assigned dog is one of our infamous “Door Darters,” you will be given additional instructions on how to keep him safe.
 Indigo handles the adoption process in its entirety. When the dogs are ready to be placed, we post them   on petfinder.com. Input from the foster family is invaluable to this process because it is the foster who can tell us crucial details about the dog's temperament, likes, dislikes and idiosyncrasies. This is the foundation of the process by which we match an animal with a forever home where it can thrive.
 
-### Foster Failure
+### Foster "Failure"
 
 <img align="left" height="300" src="/assets/images/foster4.jpg">
 

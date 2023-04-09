@@ -13,4 +13,4 @@ Adoption failure is painful for everyone—especially for dogs and cats who have
 
 Indigo Rescue is not a shelter; we are a network of fosters. All our adoptable pets are in foster homes. To meet a pet, complete and return our application so we can set up an appointment. If you have met one of our dogs at an in-store adoption event, please understand that we do not adopt “straight from the store.”  We also do not adhere to a first-come, first-served philosophy. Our goal is that each adoption is permanent, and it takes time and due diligence to ensure a good match between the pet and its new family.
 
-[Adoption Form](https://storage.googleapis.com/gator-users/user-680788/documents/51499d002fce458d86db46094694f629/Indigo%20Adoption%20Application%202021.pdf)
+<!-- [Adoption Form](https://storage.googleapis.com/gator-users/user-680788/documents/51499d002fce458d86db46094694f629/Indigo%20Adoption%20Application%202021.pdf) -->
