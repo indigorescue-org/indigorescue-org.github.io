@@ -27,6 +27,7 @@ navbar-links:
   - Our Programs: our-programs
   - Fundraising Board: fundraising_board
   - Staff & Board: staff_board
+  - Events: events
   Adoption:
   - Adoptable Pets: adoptable-pets
   - Adoption Philosophy: adoption_philosophy
@@ -36,7 +37,6 @@ navbar-links:
   Volunteer or Foster:
   - Volunteer: volunteer
   - Foster: foster
-  - Events: events
   Contact: contact
 avatar: "/assets/img/logo.png"
 round-avatar: true
