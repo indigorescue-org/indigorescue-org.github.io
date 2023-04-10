@@ -33,10 +33,10 @@ navbar-links:
   - Adoption Philosophy: adoption_philosophy
   - Adoption Policy: adoption_policy
   - Adoption Application: adoption_form_blocksurvey
-  Donate: donate
   Volunteer or Foster:
   - Volunteer: volunteer
   - Foster: foster
+  Donate: donate
   Contact: contact
 avatar: "/assets/img/logo.png"
 round-avatar: true
