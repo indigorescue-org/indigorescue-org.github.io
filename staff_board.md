@@ -82,6 +82,24 @@ John was exposed to Indigo when his family adopted a pair of dogs in 2005. “We
 ​
 Over the years, John and his wife, Melissa, have been regular volunteers with Indigo – washing dogs at the summer dog wash fundraisers, pouring beer and staffing the puppy kissing booth at the Portland International Beerfest, selling jewelry, and coordinating the Indigo Rescue Run/Walk team at the Run for a Cause fundraiser. John is excited at being a part of Indigo Rescue's efforts to grow and evolve as an organization.
 
+## Mike Robert
+
+<img align="right" height="200" src="/assets/images/mike-robert.jpg">
+
+Mike has been an Executive Assistant for over 25 years.  He has worked extensively with C-Level Executives and Board Members.  His skills include organization and proactive thinking to stay one step ahead of the needs.  He enjoys this role very much, and is thrilled to be doing it.   Life goal…. Pet all the dogs.
+
+## Bethany Purkapile
+
+<img align="left" height="300" src="/assets/images/bethany-purkapile.jpg">
+
+Bethany grew up in Portland, Oregon and graduated from College of Saint Benedict in St. Joseph, Minnesota. After a year of volunteering in Virginia, made her way back home to Portland. Bethany is a Relationship Manager and spent the last decade working in the Retirement Planning and Financial Advising space.
+
+Bethany grew up around animals, often bringing home strays and rescuing any animal in need. After being called by her friend about a "stray pitbull in an apartment parking lot," Bethany found herself with a young, abused dog that needed more than the local shelter or rescues could provide. After connecting with Indigo Rescue, Bethany and the team were able to rehabilitate Roscoe (the young pitbull pup) and find him the perfect home. After seeing the work that Indigo does, Bethany immediately wanted to get involved and began volunteering and fostering.
+
+Bethany's excitement lies in continuing to support the growth of Indigo Rescue and its mission. Her ultimate goal is to make a meaningful impact by providing a safe haven for vulnerable animals and ensuring they find loving homes.
+
+
+
 ## Our Advisory Board​
 
 ### Mark Norman, DVM
@@ -101,5 +119,7 @@ Nicole Schaefer was born in Los Angeles, California. From a very young age, she 
  Nicole attended Scripps College in California and then attended Lewis and Clark Law School in Portland. She graduated with Certificates in Animal Law and Criminal Law and Procedure, as her original plan was to prosecute animal abusers. Instead, Nicole worked for various firms doing mainly family law until she started her own law firm - Yellow Dog Legal. Yellow Dog Legal was named after Nicole's dog Maggie Rocket. Maggie came from Indigo and is a therapy dog at St. Vincent's Hospital. Nicole decided to name her firm after Maggie because Maggie represents kindness, protection, and loyalty- all traits Nicole wishes to offer to her clients. Nicole practices Trademark law primarily, but also practices business law, and of course- animal law.
 
  She still tries to hug every dog she meets, but at the very least, she loves every dog she meets.
+
+
 
 
