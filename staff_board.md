@@ -64,7 +64,7 @@ That turned out to be a life changing experience. Her first foster dog, Herman, 
 
 Himani loves a challenge and likes helping dogs who need a little extra time and understanding to blossom, and she found kindred spirits in that mission volunteering with Indigo Rescue. 
 
-## Kim Carty: Capital Funds Campaign Chair
+## Kim Carty: Board Member At Large
 
 Kim Carty grew up in Forest Grove, OR. She graduated from Pacific Lutheran University in Tacoma WA and Northwestern School of Law of Lewis & Clark College in Portland, OR. Kim opened her solo law practice in 2000 and performed contract work for other local attorneys, writing briefs and memorandums for Oregon courts before transitioning into real estate. Since 2003, Kim has been a broker for John L Scott in Beaverton, OR and a licensed attorney, assisting her clients with real estate matters.
 
@@ -82,13 +82,13 @@ John was exposed to Indigo when his family adopted a pair of dogs in 2005. “We
 ​
 Over the years, John and his wife, Melissa, have been regular volunteers with Indigo – washing dogs at the summer dog wash fundraisers, pouring beer and staffing the puppy kissing booth at the Portland International Beerfest, selling jewelry, and coordinating the Indigo Rescue Run/Walk team at the Run for a Cause fundraiser. John is excited at being a part of Indigo Rescue's efforts to grow and evolve as an organization.
 
-## Mike Robert
+## Mike Robert: Capital Funds Campaign Chair
 
 <img align="right" height="200" src="/assets/images/mike-robert.jpg">
 
 Mike has been an Executive Assistant for over 25 years.  He has worked extensively with C-Level Executives and Board Members.  His skills include organization and proactive thinking to stay one step ahead of the needs.  He enjoys this role very much, and is thrilled to be doing it.   Life goal…. Pet all the dogs.
 
-## Bethany Purkapile
+## Bethany Purkapile: Fundraising Chair
 
 <img align="left" height="300" src="/assets/images/bethany-purkapile.jpg">
 
