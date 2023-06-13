@@ -29,7 +29,8 @@ navbar-links:
   - Staff & Board: staff_board
   - Events: events
   Adoption:
-  - Adoptable Pets: adoptable-pets
+  - Adoptable Pets: https://www.petfinder.com/search/dogs-for-adoption/?shelter_id%5B0%5D=OR19&sort%5B0%5D=recently_added
+  # - Adoptable Pets: adoptable-pets
   - Adoption Philosophy: adoption_philosophy
   - Adoption Policy: adoption_policy
   - Adoption Application: adoption_form_blocksurvey
