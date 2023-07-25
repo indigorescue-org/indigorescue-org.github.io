@@ -15,12 +15,18 @@ Each year, hundreds of people from around the country send us fine and costume j
 
 We need volunteers for set-up and tear-down, not to mention to man the tables during the sale. If you have expertise in jewelry, we can always use you to help with pricing and even mending the occasional broken piece. And if you've got a particularly energetic few friends, we can always use you as a sign-spinner to drive customers to our sale.
 
+<br>
+<br>
+
 ## Dog Washes
 
 <img align="left" height="150" src="/assets/images/events2.jpg">
 
 Dogs get dirty when they're living the good life. That's why our famous dog washes are so popular—and a great time to see so many of our Indigo alumni!  We take over the parking lot at Bethany Family Pet Clinic, and the Bethany staff pitches in with the work as well. It's a lot of fun and we always need volunteers who aren't afraid to get a little bit soggy. 
-  
+
+<br>
+<br>  
+
 ## Puppy Kissing Booths
 
 <img align="right" height="300" src="/assets/images/events3.jpg">
@@ -29,11 +35,16 @@ Well, this isn't really a “kissing” event, per se. It's really more like a �
 
 We need volunteers to monitor the action, take money, etc. and, OK, maybe even PLAY with the puppies yourself…you know... It's a tough job but we need people to do it!
 
+<br>
+<br>
 ## Photos With Santa
 
 <img align="left" height="300" src="/assets/images/events4.jpg">
 
 The venue may change but the fact remains that Santa always looks his best when he's doing these photo shoots for us!  We do these events for pets but, because Santa always looks so spiffy, we always get some two-legged friends as well. We need volunteers to take money, manage the crowd, wrangle the animals and/or just hang around in an elf costume and add a little atmosphere to the occasion!
+
+<br>
+<br>
 
 ## Yard Sale for Pets
 
@@ -46,7 +57,7 @@ If you are an early-riser, you are especially suited for this job, but we fill o
 <br>
 
 ## Beer Fest
----
+
 <img align="left" height="250" src="/assets/images/events5.jpg">
 
 We've found a great deal at the Portland Beer Fest—We provide volunteers (who are 21+) to pour beer for them, and they give us money for every hour our volunteers work!  It's a fun job (and it gets you in to the festival free) and you can usually visit us at the puppy kissing booth when you're done with your shift. Essentially, it's everything you could ever want in a charitable activity!
