@@ -37,13 +37,16 @@ The venue may change but the fact remains that Santa always looks his best when 
 
 ## Yard Sale for Pets
 
-<img align="right" height="300" src="/assets/images/events5.jpg">
+<img align="right" height="300" src="/assets/images/events6.jpg">
 
 We have so many animal-related products donated to us that we are able to have a HUGE yard sale most years, with just about everything you might need for just about any kind of pet!  We need volunteers to help set up, to take money, to monitor the crowd, to tear down — all those jobs that make having a yard sale such an exhausting endeavor.
 If you are an early-riser, you are especially suited for this job, but we fill out the schedule in shifts so even if you sleep in, there's a place for you!
 
-## Beer Fest
+<br>
+<br>
 
-<img align="left" height="300" src="/assets/images/events6.jpg">
+## Beer Fest
+---
+<img align="left" height="250" src="/assets/images/events5.jpg">
 
 We've found a great deal at the Portland Beer Fest—We provide volunteers (who are 21+) to pour beer for them, and they give us money for every hour our volunteers work!  It's a fun job (and it gets you in to the festival free) and you can usually visit us at the puppy kissing booth when you're done with your shift. Essentially, it's everything you could ever want in a charitable activity!
