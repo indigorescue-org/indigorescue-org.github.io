@@ -82,6 +82,17 @@ John was exposed to Indigo when his family adopted a pair of dogs in 2005. “We
 ​
 Over the years, John and his wife, Melissa, have been regular volunteers with Indigo – washing dogs at the summer dog wash fundraisers, pouring beer and staffing the puppy kissing booth at the Portland International Beerfest, selling jewelry, and coordinating the Indigo Rescue Run/Walk team at the Run for a Cause fundraiser. John is excited at being a part of Indigo Rescue's efforts to grow and evolve as an organization.
 
+## Bethany Purkapile: Fundraising Chair
+
+<img align="left" height="300" src="/assets/images/bethany-purkapile.jpg">
+
+Bethany Purkapile grew up in Portland, OR. She graduated from College of Saint Benedict, in St. Joseph, MN and after a year of volunteering in Virginia, made her way back home to Portland. Bethany is a Relationship Manager and for the last 10 years has worked in Retirement Planning and Financial Advising space. 
+
+Bethany grew up around animals, often bringing home strays and rescuing any animal in need. After being called by her friend about a "stray pitbull in an apartment parking lot," Bethany found herself with a young, abused dog that needed more than the local shelter or rescues could provide. After being connected with Indigo Rescue, Bethany and the team were able to rehabilitate Roscoe (the young pitbull pup) and found him the perfect home. After seeing the work that Indigo does, Bethany immediately wanted to get involved and began volunteering and fostering. 
+
+Bethany is most excited about continuing to help Indigo Rescue grow and help as many special animals as possible. 
+
+
 ## Our Advisory Board​
 
 ### Mark Norman, DVM
