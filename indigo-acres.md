@@ -1,11 +1,8 @@
 ---
-# title: Indigo Acres
 layout: page
 image:
   background: https://localhost/assets/images/RainbowRanch.jpg
-
 ---
-
 
 <p align="center">
     <img width="100%" src="/assets/images/indigo-acres-header.png">
