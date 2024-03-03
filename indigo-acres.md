@@ -1,10 +1,14 @@
 ---
-title: Indigo Acres
+# title: Indigo Acres
 layout: page
+image:
+  background: https://localhost/assets/images/RainbowRanch.jpg
+
 ---
 
+
 <p align="center">
-    <img height="300" src="/assets/images/indigo-acres-logo.jpg">
+    <img width="100%" src="/assets/images/indigo-acres-header.png">
 </p>
 
 ## A New Reality In the Animal Rescue World
@@ -32,7 +36,15 @@ We have embarked on a capital campaign to build Indigo Acres, a brick and mortar
 We’re looking for a close-in property, but meeting all the zoning requirements has proven to be more challenging that we expected. We’re working hard to accumulate as large of a down payment as possible so that we will be more competitive when a suitable property becomes available.
 Regardless of the address, the new facility will provide all these things and more:
 
+<p align="center">
+    <img height="300" src="/assets/images/offerings.png">
+</p>
+
 ## Lili’s Home
+
+<p align="center">
+    <img height="300" src="/assets/images/indigo-acres-logo.jpg">
+</p>
 
 Most importantly, the new property will hold Lili’s Home, a home-style congregate living facility for senior and medically fragile dogs. This single program will increase our capacity exponentially —while providing a loving home for dozens of seniors and medically fragile dogs.
 
