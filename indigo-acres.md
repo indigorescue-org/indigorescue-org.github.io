@@ -5,7 +5,7 @@ image:
 ---
 
 <p align="center">
-    <img width="100%" src="/assets/images/indigo-acres-header.png">
+    <img src="/assets/images/indigo-acres-header.png">
 </p>
 
 ## A New Reality In the Animal Rescue World
