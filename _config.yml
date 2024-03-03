@@ -1,6 +1,5 @@
 ---
 title: indigorescue.org
-title-img: "/assets/images/logo-full.png"
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -21,13 +20,12 @@ defaults:
     path: ''
   values:
     layout: page
+title-img: "/assets/images/logo-full.png"
 author: Indigo Rescue
 navbar-links:
   Indigo Acres: indigo-acres
   About:
   - About Us: about
-  # - Our Programs: our-programs
-
   - Staff & Board: staff_board
   - Events: events
   Adoption:
@@ -38,10 +36,9 @@ navbar-links:
   Volunteer or Foster:
   - Volunteer: volunteer
   - Foster: foster
-  - Fundraising Board: fundraising_board  
+  - Fundraising Board: fundraising_board
   Donate: donate
   Contact: contact
-# avatar: "/assets/img/logo.png"
 round-avatar: true
 social-network-links:
   email: info@indigorescue.org
