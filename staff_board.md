@@ -62,7 +62,7 @@ Himani Wickramanayake grew up in the Pacific Northwest and attended Whitman Coll
 
 That turned out to be a life changing experience. Her first foster dog, Herman, needed so much behavioral rehabilitation to overcome a rough start in life that Himani began educating herself in animal behavior, dog training modalities, and supportive care to be the person Herman needed her to be. In doing so, she found herself becoming the best version of herself and found a passion for dog training and animal rescue that would shape her life from that moment forward. Herman, her first foster-fail, is still her best friend and ally in rehabilitating rescue dogs.
 
-Himani loves a challenge and likes helping dogs who need a little extra time and understanding to blossom, and she found kindred spirits in that mission volunteering with Indigo Rescue. 
+Himani loves a challenge and likes helping dogs who need a little extra time and understanding to blossom, and she found kindred spirits in that mission volunteering with Indigo Rescue.
 
 ## Kim Carty: Board Member At Large
 
@@ -90,8 +90,17 @@ Bethany Purkapile grew up in Portland, OR. She graduated from College of Saint B
 
 Bethany grew up around animals, often bringing home strays and rescuing any animal in need. After being called by her friend about a "stray pitbull in an apartment parking lot," Bethany found herself with a young, abused dog that needed more than the local shelter or rescues could provide. After being connected with Indigo Rescue, Bethany and the team were able to rehabilitate Roscoe (the young pitbull pup) and found him the perfect home. After seeing the work that Indigo does, Bethany immediately wanted to get involved and began volunteering and fostering. 
 
-Bethany is most excited about continuing to help Indigo Rescue grow and help as many special animals as possible. 
+Bethany is most excited about continuing to help Indigo Rescue grow and help as many special animals as possible.
 
+## Ann Ferguson: Finance Committee Chair
+
+<img align="right" height="300" src="/assets/images/ann_ferguson.jpg">
+
+Ann grew up in Plymouth, United Kingdom, and studied Accounting and Finance at the University of the West of England. After obtaining her degree, she pursued further professional studies and earned her Chartered Global Management Accountant certification. 
+
+ In 2014, Ann and her husband Neil relocated to Oregon and became naturalized citizens in 2023. Recognizing that Oregon is the perfect place to welcome a rescue into their home, and being lifelong pet lovers, they adopted their rescue dog, Poppy, in 2016. 
+
+Ann was introduced to Indigo Rescue by a close friend who had adopted a dog from the charity. With over 20 years of experience in finance and operations, including various leadership roles in both the UK and the US, Ann is excited to use her skills to help Indigo Rescue grow and rescue even more animals in need. Passionate about giving back to the community, she looks forward to making a positive impact through her work with Indigo.
 
 ## Our Advisory Board​
 
