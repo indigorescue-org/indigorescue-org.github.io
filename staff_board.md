@@ -98,15 +98,23 @@ Bethany is most excited about continuing to help Indigo Rescue grow and help as 
 
 Ann grew up in Plymouth, United Kingdom, and studied Accounting and Finance at the University of the West of England. After obtaining her degree, she pursued further professional studies and earned her Chartered Global Management Accountant certification. 
 
- In 2014, Ann and her husband Neil relocated to Oregon and became naturalized citizens in 2023. Recognizing that Oregon is the perfect place to welcome a rescue into their home, and being lifelong pet lovers, they adopted their rescue dog, Poppy, in 2016. 
+In 2014, Ann and her husband Neil relocated to Oregon and became naturalized citizens in 2023. Recognizing that Oregon is the perfect place to welcome a rescue into their home, and being lifelong pet lovers, they adopted their rescue dog, Poppy, in 2016. 
 
 Ann was introduced to Indigo Rescue by a close friend who had adopted a dog from the charity. With over 20 years of experience in finance and operations, including various leadership roles in both the UK and the US, Ann is excited to use her skills to help Indigo Rescue grow and rescue even more animals in need. Passionate about giving back to the community, she looks forward to making a positive impact through her work with Indigo.
+
+## Caron Welch: Volunteer Committee Chair
+
+<img align="left" height="300" src="/assets/images/caron_welch.jpg">
+
+Caron Welch is our Volunteers Committee Chair, and will be coordinating our volunteer programs. Born and raised in Manchester, UK, Caron was trained as a registered nurse. She always had pets growing up-mice, hamsters, gerbils, guinea pigs, cats and dogs, never having lived in a home without animals for very long. When Caron and her husband met, they each had a rescue pup, and then adopted another shelter dog. In 2013, they planned to take a break from pets, but their home was pet-less for only 10 days. Looking at the Indigo Rescue website, she came across Uno and Zero- two blind brothers who had been at the rescue for more than 4 years! Uno and Zero soon joined their family, and Caron and her husband have continued foster failing and volunteering for Indigo Rescue ever since.  
+
+Caron's education and professional experience in Nursing have developed her organizational and people skills. Those skills and her dedication to animals will help with supporting Indigo Rescue's many volunteers and fosters.
 
 ## Our Advisory Board​
 
 ### Mark Norman, DVM
 
-<img align="left" height="300" src="/assets/images/mark-norman.jpg">
+<img align="right" height="300" src="/assets/images/mark-norman.jpg">
 
 Dr. Mark Norman has been the primary veterinarian for Indigo Rescue since 1998, either treating or referring the organization's rescued animals to specialists for appropriate care. He has practiced in the Portland area since 1996. He is a member of the American Veterinary Medical Association, American Animal Hospital Association, Oregon Veterinary Medical Association, Portland Veterinary Medical Association, Washington County Veterinary Medical Association. He also serves on the board of Dove Lewis Emergency Animal Hospital. Dr Mark is a 1996 graduate of Iowa State University College of Veterinary Medicine.
 
