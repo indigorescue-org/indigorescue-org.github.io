@@ -116,7 +116,7 @@ Caron's education and professional experience in Nursing have developed her orga
 
 <img align="right" height="300" src="/assets/images/mark-norman.jpg">
 
-Dr. Mark Norman has been the primary veterinarian for Indigo Rescue since 1998, either treating or referring the organization's rescued animals to specialists for appropriate care. He has practiced in the Portland area since 1996. He is a member of the American Veterinary Medical Association, American Animal Hospital Association, Oregon Veterinary Medical Association, Portland Veterinary Medical Association, Washington County Veterinary Medical Association. He also serves on the board of Dove Lewis Emergency Animal Hospital. Dr Mark is a 1996 graduate of Iowa State University College of Veterinary Medicine.
+Dr. Mark Norman has been the primary veterinarian for Indigo Rescue since 1998, either treating or referring the organization's rescued animals to specialists for appropriate care. He has practiced in the Portland area since 1996. He is a member of the American Veterinary Medical Association, American Animal Hospital Association, Oregon Veterinary Medical Association, Portland Veterinary Medical Association, Washington County Veterinary Medical Association. Dr Mark is a 1996 graduate of Iowa State University College of Veterinary Medicine.
 
 In addition to being the veterinarian for Indigo Rescue, Dr Mark served as Indigo's immediate past president. He has fostered and adopted one of his dogs from the organization. He also hosts and participates in fundraising activities and events.
 
