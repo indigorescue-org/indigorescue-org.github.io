@@ -5,7 +5,7 @@ layout: page
 
 ## Celebrating 25 Yearsof LOVE  
 
-[A celebration of our work over the years](<assets/pdf/Indigo Rescue_25_Year_Anniversary_HAPPY.pdf>)
+[A celebration of our work over the years](</assets/pdf/Indigo_Rescue_25_Year_Anniversary_HAPPY.pdf>)
 
 ## Our "Square Pegs" Philosophy
 
