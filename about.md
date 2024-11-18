@@ -3,6 +3,10 @@ title: About Indigo Rescue
 layout: page
 ---
 
+## Celebrating 25 Yearsof LOVE  
+
+[A celebration of our work over the years](<assets/pdf/Indigo Rescue_25_Year_Anniversary_HAPPY.pdf>)
+
 ## Our "Square Pegs" Philosophy
 
 <img align="right" width="300" height="300" src="/assets/images/aboutus1.jpg">
