@@ -3,7 +3,6 @@ title: Donate
 layout: page
 ---
 
-
 ### Three Ways to Donate
 
 <img height="275" src="/assets/images/donate_mail.jpg">
