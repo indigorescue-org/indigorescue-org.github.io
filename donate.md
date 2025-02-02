@@ -3,6 +3,7 @@ title: Donate
 layout: page
 ---
 
+
 ### Three Ways to Donate
 
 <img height="275" src="/assets/images/donate_mail.jpg">
@@ -36,6 +37,12 @@ You can make a gift to Indigo in memory or in honor of someone important to you.
 * The name and address of the person to be notified of this gift
 
 We will mail an acknowledgement card to the recipient you name as well as a notice to you for your records.
+
+### Indigo Rescue Donor Privacy Policy
+
+At Indigo Rescue, we are committed to safeguarding the personal information of our donors. [Our Donor Privacy Policy](/assets/pdf/Indigo-Rescue-Donor-Privacy-Policy.pdf) outlines how we collect, use, and protect the information you share with us.
+
+We value your trust and are dedicated to ensuring your privacy is respected at all times.
 
 ## Contact
 
