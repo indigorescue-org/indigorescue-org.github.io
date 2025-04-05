@@ -3,7 +3,9 @@ title: Foster
 layout: page
 ---
 
-Interested in being a foster, fill out our [foster application](/assets/pdf/Indigo_Rescue_Foster_Application_2023.pdf)
+Interested in being a foster, fill out the below survey
+
+<embed src="https://blocksurvey.io/indigo-rescue-foster-application-Ia9jmy0rTYarpD6tZRWloA?v=o" style="width:100%; height:50vh;">
 
 Questions about fostering? Email us at [info@indigorescue.org](mailto:info@indigorescue.org)
 

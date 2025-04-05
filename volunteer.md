@@ -3,7 +3,9 @@ title: Volunteer
 layout: page
 ---
 
-Want to volunteer, please fill out our [Volunteer Application](/assets/pdf/IndigoVolunteerApp2024.pdf)
+Want to volunteer, please fill out the below form
+
+<embed src="https://blocksurvey.io/indigo-rescue-volunteer-application-GafbBiXXTPetxt0uGAJOSg?v=o" style="width:100%; height:50vh;">
 
 ## ​Weekly Adoption Events
 
